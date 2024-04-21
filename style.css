@@ -1,0 +1,59 @@
+.nav a {
+  color: gray;
+}
+
+.bg1 {
+  background-image: url("images/bg-2.png");
+  background-repeat: no-repeat;
+  background-position: bottom left;
+}
+.bg2 {
+  background-image: url("images/bg-1.png");
+  background-repeat: no-repeat;
+}
+
+.pad {
+  padding-top: 120px;
+}
+.padding {
+  padding-bottom: 100px;
+}
+.pad-ban {
+  padding-bottom: 30px;
+}
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer {
+  border: none;
+  background-color: white;
+}
+.decoration {
+  text-decoration: none;
+}
+
+.card-c {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px lightgray;
+  width: 200px;
+  height: 200px;
+  margin-right: 25px;
+  margin-bottom: 25px;
+}
+.border-btm {
+  border-bottom: 5px solid orange;
+  border-radius: 5px;
+  margin: 30px 0px 60px;
+}
+.img-h {
+  height: 400px;
+}
+.text-center {
+  padding: 10px;
+}
+.mrg-lft {
+  margin-left: 25px;
+}
